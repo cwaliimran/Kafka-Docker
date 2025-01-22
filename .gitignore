@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+node_modules/.package-lock.json
+node_modules/kafkajs/src/producer/partitioners/legacy/murmur2.js
+/node_modules
